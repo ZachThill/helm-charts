@@ -17,6 +17,6 @@ entries:
     - https://github.com/lightbend/spark-history-server-docker
     - https://github.com/bbenzikry/spark-eks
     urls:
-    - https://zachthill.github.io/helm-chart/spark-history-server-1.0.0.tgz
+    - https://zachthill.github.io/helm-charts/spark-history-server-1.0.0.tgz
     version: 1.0.0
 generated: "2023-05-26T14:23:46.517979-06:00"
